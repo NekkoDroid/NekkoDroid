@@ -18,7 +18,7 @@
 ## :mailbox: **Contact**
 
 - [nekkodroid404@gmail.com](mailto:nekkodroid404@gmail.com)
-- [@9Live_Nekko](https://twitter.com/9Live_Nekko) on Twitter
+- [@9LiveNekko](https://twitter.com/9LiveNekko) on Twitter
 - [Michael Ferrari](https://linkedin.com/in/NekkoDroid) on LinkedIn
 
 For anything further questions feel free to [start a discussion](https://github.com/NekkoDroid/NekkoDroid/discussions).
