@@ -19,7 +19,7 @@
 
 - [nekkodroid404@gmail.com](mailto:nekkodroid404@gmail.com)
 - [@9LiveNekko](https://twitter.com/9LiveNekko) on Twitter
-- [@NekkoDroid](https://mastodon.gamedev.place/@NekkoDroid) on Mastodon
+- [@NekkoDroid](https://social.treehouse.systems/@NekkoDroid) on Mastodon
 - [Michael Ferrari](https://linkedin.com/in/NekkoDroid) on LinkedIn
 
 For anything further questions feel free to [start a discussion](https://github.com/NekkoDroid/NekkoDroid/discussions).
