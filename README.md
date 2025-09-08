@@ -5,12 +5,6 @@
 **Michael Ferrari | :computer: Looking for work in the programming world | :world_map: Germany &mdash; American/Italian**
 </div>
 
-## :writing_hand: **About Me**
-
-- :school: I'm currently a student of **SRH Heidelberg**
-- :computer: Studying **Virtual Reality & Game Development**
-- :thinking: I enjoy **anime, games, music and programming**
-
 ### :zap: **Languages**
   - Decent knowledge: **C++, C#, Java, JS/TS** <sub>can write a program (kinda)</sub>
   - Basic knowledge: **Asm, Rust, Lua, HTML** <sub>can read a program (kinda)</sub>
@@ -28,5 +22,6 @@ For anything further questions feel free to [start a discussion](https://github.
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=NekkoDroid&show_icons=true)](https://github.com/NekkoDroid)
 </div>
+
 
 
