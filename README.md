@@ -2,7 +2,7 @@
 
 # ***Welcome to my Profile***
 
-**Michael Ferrari | :computer: Game Dev Student | :world_map: Germany &mdash; American/Italian**
+**Michael Ferrari | :computer: Looking for work in the programming world | :world_map: Germany &mdash; American/Italian**
 </div>
 
 ## :writing_hand: **About Me**
@@ -28,4 +28,5 @@ For anything further questions feel free to [start a discussion](https://github.
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=NekkoDroid&show_icons=true)](https://github.com/NekkoDroid)
 </div>
+
 
