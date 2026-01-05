@@ -13,7 +13,7 @@
 
 - [nekkodroid404@gmail.com](mailto:nekkodroid404@gmail.com)
 - [@NekkoDroid](https://social.treehouse.systems/@NekkoDroid) on Mastodon
-- [Michael Ferrari](https://linkedin.com/in/NekkoDroid) on LinkedIn
+- [Michael Ferrari](https://linkedin.com/in/michael-miller-ferrari) on LinkedIn
 
 For anything further questions feel free to [start a discussion](https://github.com/NekkoDroid/NekkoDroid/discussions).
 
@@ -22,6 +22,7 @@ For anything further questions feel free to [start a discussion](https://github.
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=NekkoDroid&show_icons=true)](https://github.com/NekkoDroid)
 </div>
+
 
 
 
